@@ -4,7 +4,7 @@ Java imagine like turtle.
 This is lib that alow you to use turtle graphics in java!
 
 All what you need to do is download and import lib and make your main class looks like this:
-<a>
+<PRE>
 package package;
 
 import static ugp.org.Turtle.Actions.*;
@@ -22,4 +22,4 @@ public class Main extends ShowTurtle
 		/*Example:*/t.Foreward(100);
 	}
 }
-</a>
+</PRE>
