@@ -19,7 +19,7 @@ public class Main extends ShowTurtle
 	protected void Program(Turtle t, Stage s) 
 	{
 		//Write turtle commands here!
-		/*Example:*/t.Foreward(100);
+		/*Example:*/t.Forward(100);
 	}
 }
 </PRE>
