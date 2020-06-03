@@ -1,7 +1,7 @@
 # Java-Turtle
 Java imagine like turtle.
 
-This is lib that alow you to use turtle graphics in java!
+This is lib that alows you to use turtle graphics in java!
 
 All what you need to do is download and import lib and make your main class looks like this:
 <PRE>
